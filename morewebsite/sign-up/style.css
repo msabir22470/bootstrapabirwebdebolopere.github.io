@@ -1,0 +1,29 @@
+body{
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-image: url(image/maxresdefault.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.main-box{
+  background: rgb(211,211,211,0.5);
+  padding: 30px;
+  position: absolute;
+  margin-left: 400px;
+  margin-top: 50px;
+}
+.main-box img{
+  position: flex;
+}
+.form-control{
+  background-color: transparent !important;
+}
+.main-box p a{
+  font-weight:400;
+  color: #808080;
+}
+.main-box p a:hover{
+  color: blue;
+}
